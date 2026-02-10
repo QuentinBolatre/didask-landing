@@ -22,7 +22,7 @@
         <div class="grid lg:grid-cols-2 gap-12 items-center">
           <div>
             <h1 class="text-4xl lg:text-5xl font-bold text-didask-dark leading-tight">
-              Formez-vous efficacement avec notre 
+              Formez-vous efficacement avec notre test
               <span class="text-didask-primary">formation complète</span>
             </h1>
             <p class="mt-6 text-lg text-didask-muted leading-relaxed">
